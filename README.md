@@ -53,8 +53,8 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 </tr>
 <tr>
 <td width="50%" align="center">
-<img src="assets/sites/clearview.jpg" width="100%" alt="Clearview Scrub Club homepage"/>
-<br/><sub><b>Clearview Scrub Club</b>: hired to build the site for a local house-cleaning business</sub>
+<img src="assets/sites/cleaning.jpg" width="100%" alt="Homepage for a residential cleaning business"/>
+<br/><sub><b>Residential cleaning business</b>: hired to design and build their website</sub>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/lilltill7/Studio-Mini"><img src="assets/sites/studio-mini.jpg" width="100%" alt="Studio Mini with lyrics, video, and audio panels"/></a>
