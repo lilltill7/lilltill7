@@ -41,7 +41,7 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 <img src="https://raw.githubusercontent.com/lilltill7/room8-v1/main/screenshots/demo.gif" width="90%" alt="Scrolling through the Room8 landing page, ending with animated bubbles matching to YOU" />
 </a>
 <br/>
-<sub><b>Room8 prototype:</b> a roommate-matching site where I designed and built the whole UI. Scroll down and the bubbles find your perfect match ✓</sub>
+<sub><b>Room8 prototype, my first attempt at a website!</b> A roommate-matching site where I designed and built the whole UI. Scroll down and the bubbles find your perfect match ✓</sub>
 </p>
 
 ---
