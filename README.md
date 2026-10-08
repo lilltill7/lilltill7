@@ -36,6 +36,14 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 <sub><b>Artificial Artists, prototype 1:</b> MIDI from Ableton lights up a live visual keyboard. Eventually, my programmed backing band gets to be seen on stage too.</sub>
 </p>
 
+<p align="center">
+<a href="https://github.com/lilltill7/room8-v1">
+<img src="https://raw.githubusercontent.com/lilltill7/room8-v1/main/screenshots/demo.gif" width="90%" alt="Scrolling through the Room8 landing page, ending with animated bubbles matching to YOU" />
+</a>
+<br/>
+<sub><b>Room8 prototype:</b> a roommate-matching site where I designed and built the whole UI. Scroll down and the bubbles find your perfect match ✓</sub>
+</p>
+
 ---
 
 ### 🧶 things I'm tinkering with
