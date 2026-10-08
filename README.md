@@ -38,7 +38,7 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 
 ---
 
-### 🌐 websites I've built
+### 🖥️ things I've built
 
 <table>
 <tr>
@@ -59,6 +59,16 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 <td width="50%" align="center">
 <a href="https://github.com/lilltill7/Studio-Mini"><img src="assets/sites/studio-mini.jpg" width="100%" alt="Studio Mini with lyrics, video, and audio panels"/></a>
 <br/><sub><b>Studio Mini</b>: my own side project, with lyrics, video, and audio in one place</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/lilltill7/heather-plate"><img src="assets/sites/heather-plate.jpg" width="100%" alt="The Heather Plate home screen with a featured recipe, recipe list, and meal-planning calendar"/></a>
+<br/><sub><b>The Heather Plate</b>: an AI recipe organizer, made for my mom 🩷</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/lilltill7/Trifecta"><img src="assets/sites/trifecta.jpg" width="100%" alt="Trifecta dungeon room and pixel-art sprite sheet in the Tiled map editor"/></a>
+<br/><sub><b>Trifecta</b>: my 8-bit adventure game, mid-build in Tiled with my own pixel art</sub>
 </td>
 </tr>
 </table>
