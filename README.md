@@ -36,13 +36,32 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 <sub><b>Artificial Artists, prototype 1:</b> MIDI from Ableton lights up a live visual keyboard. Eventually, my programmed backing band gets to be seen on stage too.</sub>
 </p>
 
-<p align="center">
-<a href="https://github.com/lilltill7/room8-v1">
-<img src="https://raw.githubusercontent.com/lilltill7/room8-v1/main/screenshots/demo.gif" width="90%" alt="Scrolling through the Room8 landing page, ending with animated bubbles matching to YOU" />
-</a>
-<br/>
-<sub><b>Room8 prototype, my first attempt at a website!</b> A roommate-matching site where I designed and built the whole UI. Scroll down and the bubbles find your perfect match ✓</sub>
-</p>
+---
+
+### 🌐 websites I've built
+
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/lilltill7/room8-v1"><img src="assets/sites/room8.gif" width="100%" alt="Scrolling the Room8 landing page as bubbles match to YOU"/></a>
+<br/><sub><b>Room8</b>: my first attempt at a website! I designed and built the whole UI</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://countryside-donut-house.netlify.app"><img src="assets/sites/donut.jpg" width="100%" alt="Countryside Donut House homepage"/></a>
+<br/><sub><b>Countryside Donut House</b>: built for a family-owned donut shop in Bothell, WA</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<img src="assets/sites/clearview.jpg" width="100%" alt="Clearview Scrub Club homepage"/>
+<br/><sub><b>Clearview Scrub Club</b>: hired to build the site for a local house-cleaning business</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/lilltill7/Studio-Mini"><img src="assets/sites/studio-mini.jpg" width="100%" alt="Studio Mini with lyrics, video, and audio panels"/></a>
+<br/><sub><b>Studio Mini</b>: my own side project, with lyrics, video, and audio in one place</sub>
+</td>
+</tr>
+</table>
 
 ---
 
