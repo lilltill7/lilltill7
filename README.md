@@ -71,7 +71,7 @@ I'm in a self-designed major at Whitman, **Computational Media & Creative Techno
 **🍳 Making life easier & 🎮 just for fun**
 | | |
 |:--|:--|
-| [The Heather Plate](https://github.com/lilltill7/heather-plate) | Paste an Instagram, Tiktok, or Youtube recipe link and AI turns it into a clean recipe. Made for my mom 🩷 |
+| [The Heather Plate](https://github.com/lilltill7/heather-plate) | Paste an Instagram, TikTok, or YouTube recipe link and AI turns it into a clean recipe. Made for my mom 🩷 |
 | [Trifecta](https://github.com/lilltill7/Trifecta) | A dark choose-your-own-adventure game, being rebuilt as an 8-bit game (home of the scarf bunny) |
 | [Speedy Run](https://github.com/lilltill7/Speedy_Run) | An endless runner starring Evergreen State's mascot, Speedy |
 
